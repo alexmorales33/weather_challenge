@@ -1,0 +1,1 @@
+export {VCardHourDetail} from '.';
